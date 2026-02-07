@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Aside from coding, I’ve been getting into [chess](https://www.chess.com/member/marvinalegre) lately.
+
 <!--
 **marvinalegre/marvinalegre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
