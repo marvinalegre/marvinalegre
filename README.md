@@ -1,2 +1,2 @@
-[Math Arena](https://math-arena.marvinalegre.workers.dev) $0/m
+[Math Arena](https://math-arena.marvinalegre.workers.dev) $0/m  
 [whiteboard](https://whiteboard.marvinalegre.workers.dev) $0/m
