@@ -5,11 +5,15 @@
 | [whiteboard](https://whiteboard.marvinalegre.workers.dev) | 🟢 Live | $0/mo |
 
 - [ ] rewrite Math Arena using [hono](https://hono.dev) and [fixi](https://fixiproject.org/fixi.html)
-  - host code in marvinalegre/matharena
-  - [ ] build out its auth system
-    - [ ] install auth middlewares
-    - [ ] add rate limiter
-  - [ ] flush out the ui
-    - [ ] navbar
+  - host code in [marvinalegre/matharena](https://github.com/marvinalegre/matharena)
+  - check out the progress at [matharena](https://matharena.marvinalegre.workers.dev)
+  - [x] build out its auth system
+    - [x] install auth middlewares
+    - [x] fix non redirection in auth pages
+    <!-- - [ ] add recaptcha on login and sigup -->
+  - [x] add rate limiter
+  - [x] rewrite the navbar
+  - [x] add the pitch
+  - [x] play button
 
 ![status](lets-gooooooo.gif)
