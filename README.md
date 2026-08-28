@@ -15,5 +15,9 @@
   - [x] rewrite the navbar
   - [x] add the pitch
   - [x] play button
+  - [x] play page
+  - [x] question form
+  - [x] use [mathforge](https://github.com/marvinalegre/mathforge)
+  - [ ] accept answers from guests
 
 ![status](lets-gooooooo.gif)
