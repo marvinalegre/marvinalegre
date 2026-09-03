@@ -18,6 +18,8 @@
   - [x] play page
   - [x] question form
   - [x] use [mathforge](https://github.com/marvinalegre/mathforge)
-  - [ ] accept answers from guests
+  - [x] accept answers from guests
+  - [x] add toast feedback for answer submission
+  - [ ] fix katex rendering on subsequent questions
 
 ![status](lets-gooooooo.gif)
