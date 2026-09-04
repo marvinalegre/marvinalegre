@@ -20,6 +20,13 @@
   - [x] use [mathforge](https://github.com/marvinalegre/mathforge)
   - [x] accept answers from guests
   - [x] add toast feedback for answer submission
-  - [ ] fix katex rendering on subsequent questions
+  - [x] fix katex rendering on subsequent questions
+  - [x] add a supported mathforge question list
+  - [x] hide unnecessary elements in play page
+  - [ ] add side nav for mobile
+  - [ ] style auth pages
+  - [ ] add log out button
+  - [ ] add rating to users table
+  - [ ] add leaderboard page
 
 ![status](lets-gooooooo.gif)
