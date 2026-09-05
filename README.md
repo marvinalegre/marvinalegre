@@ -23,7 +23,7 @@
   - [x] fix katex rendering on subsequent questions
   - [x] add a supported mathforge question list
   - [x] hide unnecessary elements in play page
-  - [ ] add side nav for mobile
+  - [x] add side nav for mobile
   - [ ] style auth pages
   - [ ] add log out button
   - [ ] add rating to users table
