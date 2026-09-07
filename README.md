@@ -24,9 +24,14 @@
   - [x] add a supported mathforge question list
   - [x] hide unnecessary elements in play page
   - [x] add side nav for mobile
-  - [ ] style auth pages
-  - [ ] add log out button
-  - [ ] add rating to users table
-  - [ ] add leaderboard page
+  - [x] style auth pages
+  - [x] user badge
+  - [x] user menu
+  - [x] give the navbar a username or null
+  - [x] add log out button
+  - [x] add rating to users table
+  - [x] add questions table
+  - [x] add leaderboard page
+  - [ ] add functions for updating ratings
 
 ![status](lets-gooooooo.gif)
