@@ -32,6 +32,14 @@
   - [x] add rating to users table
   - [x] add questions table
   - [x] add leaderboard page
-  - [ ] add functions for updating ratings
+  - [x] add functions for updating ratings
+  - [x] show rating in play page
+  - [x] tie a question, answer to a session
+  - [x] update user rating on answer submission
+  - [x] basic user page
+  - [ ] add a readme
+  - [ ] serve the question nearest to users rating
+  - [ ] add an error handler
+  - [ ] add rate limiters to new routes
 
 ![status](lets-gooooooo.gif)
